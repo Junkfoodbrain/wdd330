@@ -1,0 +1,9 @@
+li[data-category="fruit"] {
+    background-color: lightyellow;    
+}
+li[data-category="vegetable"] {
+    background-color: lightgreen;
+}
+li[data-category="dairy"] {
+    background-color: lightblue;
+}
